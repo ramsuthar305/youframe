@@ -5,10 +5,12 @@
 ## Instructions to run code
 0. `git clone https://github.com/ramsuthar305/youframe`
 1. `cd server`
-2. `npm run dev`
-3. open new terminal
-4. `cd client`
-5. `npm start`
+2. `npm install`
+3. `npm run dev`
+4. open new terminal
+5. `cd client`
+6. `npm install`
+7. `npm start`
 
 ## Tech stack used
 1. mongodb Atlas
