@@ -1,5 +1,7 @@
 # youframe
 
+[![Play demo on youtube](https://img.youtube.com/vi/ERw_3MKKbOg/0.jpg)](https://youtu.be/ERw_3MKKbOg)
+
 ## Instructions to run code
 0. `git clone https://github.com/ramsuthar305/youframe`
 1. `cd server`
